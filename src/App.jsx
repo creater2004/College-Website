@@ -1,5 +1,5 @@
 import React, { Component, useEffect, useState } from "react";
-import AOS from "aos";
+import AOS from "aos"
 import "aos/dist/aos.css";
 
 // Component import
